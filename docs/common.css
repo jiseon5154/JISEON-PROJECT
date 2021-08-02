@@ -1,0 +1,17 @@
+.img-box {
+  max-width:1400px;
+}
+
+.img-box > .section-0 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/minjeong10/minjeong-project/master/docs/resource/a-0.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
+.img-box > .section-0::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 1080);
+}
