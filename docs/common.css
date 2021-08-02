@@ -154,3 +154,30 @@
   width:62.3vw;
   max-width:1601px;
 }
+
+.img-box > .section-11 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-11.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-11::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 2372);
+}
+
+.img-box > .section-11 > .img-2 {
+  position:absolute;
+  top:54.5%;
+  left:50%;
+}
+
+.img-box > .section-11 > .img-2 > img {
+  height:auto;
+  width:62.3vw;
+  max-width:1601px;
+}
