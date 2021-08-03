@@ -145,13 +145,13 @@
 
 .img-box > .section-10 > .img-1 {
   position:absolute;
-  top:54.5%;
+  top:54.8%;
   left:0%;
 }
 
 .img-box > .section-10 > .img-1 > img {
   height:auto;
-  width:62.3vw;
+  width:82vw;
   max-width:1601px;
 }
 
@@ -172,8 +172,8 @@
 
 .img-box > .section-11 > .img-2 {
   position:absolute;
-  top:54.5%;
-  left:50%;
+  top:3.2%;
+  left:10%;
 }
 
 .img-box > .section-11 > .img-2 > img {
@@ -239,4 +239,94 @@
   content:"";
   display:block;
   padding-top:calc(100% / 1920 * 2372);
+}
+
+.img-box > .section-13 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-13.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-13::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 4172);
+}
+
+.img-box > .section-14 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-14.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-14::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 2458);
+}
+
+.img-box > .section-15 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-15.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-15::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 2458);
+}
+
+.img-box > .section-16 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-16.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-16::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 2458);
+}
+
+.img-box > .section-17 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-17.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-17::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 1905);
+}
+
+.img-box > .section-18 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-18.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  position:relative;
+}
+
+.img-box > .section-18::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 981);
 }
