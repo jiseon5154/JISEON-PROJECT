@@ -183,47 +183,47 @@
 }
 .img-box > .section-11 > .img-3 {
   position:absolute;
-  top:40.5%;
-  left:40%;
+  top:51.1%;
+  left:12%;
 }
 
 .img-box > .section-11 > .img-3 > img {
   height:auto;
-  width:62.3vw;
-  max-width:1601px;
+  width:30.3vw;
+  max-width:230px;
 }
 .img-box > .section-11 > .img-4 {
   position:absolute;
-  top:30.5%;
-  left:30%;
+  top:51.5%;
+  left:74.3%;
 }
 
 .img-box > .section-11 > .img-4 > img {
   height:auto;
   width:62.3vw;
-  max-width:1601px;
+  max-width:270px;
 }
 .img-box > .section-11 > .img-5 {
   position:absolute;
-  top:20.5%;
-  left:20%;
+  top:82.9%;
+  left:5.9%;
 }
 
 .img-box > .section-11 > .img-5 > img {
   height:auto;
   width:62.3vw;
-  max-width:1601px;
+  max-width:310px;
 }
 .img-box > .section-11 > .img-6 {
   position:absolute;
-  top:10.5%;
-  left:10%;
+  top:82.9%;
+  left:74.6%;
 }
 
 .img-box > .section-11 > .img-6 > img {
   height:auto;
   width:62.3vw;
-  max-width:1601px;
+  max-width:240px;
 }
 
 .img-box > .section-12 {
@@ -238,7 +238,7 @@
 .img-box > .section-12::after {
   content:"";
   display:block;
-  padding-top:calc(100% / 1920 * 2372);
+  padding-top:calc(100% / 1920 * 1183);
 }
 
 .img-box > .section-13 {
@@ -256,6 +256,30 @@
   padding-top:calc(100% / 1920 * 4172);
 }
 
+.img-box > .section-13 > .img-7 {
+  position:absolute;
+  top:7.9%;
+  left:63.1%;
+}
+
+.img-box > .section-13 > .img-7 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
+}
+
+.img-box > .section-13 > .img-8 {
+  position:absolute;
+  top:55.9%;
+  left:14.8%;
+}
+
+.img-box > .section-13 > .img-8 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
+}
+
 .img-box > .section-14 {
   height:auto;
   background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-14.png);
@@ -271,6 +295,66 @@
   padding-top:calc(100% / 1920 * 2458);
 }
 
+.img-box > .section-14 > .img-9 {
+  position:absolute;
+  top:11.9%;
+  left:9.5%;
+}
+
+.img-box > .section-14 > .img-9 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
+}
+
+.img-box > .section-14 > .img-10 {
+  position:absolute;
+  top:11.9%;
+  left:41%;
+}
+
+.img-box > .section-14 > .img-10 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
+}
+
+.img-box > .section-14 > .img-11 {
+  position:absolute;
+  top:11.9%;
+  left:72.5%;
+}
+
+.img-box > .section-14 > .img-11 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
+}
+
+.img-box > .section-14 > .img-12 {
+  position:absolute;
+  top:20.5%;
+  left:30.9%;
+}
+
+.img-box > .section-14 > .img-12 > img {
+  height:auto;
+  width:9.6vw;
+  max-width:138px;
+}
+
+.img-box > .section-14 > .img-13 {
+  position:absolute;
+  top:31.8%;
+  left:62.8%;
+}
+
+.img-box > .section-14 > .img-13 > img {
+  height:auto;
+  width:9.1vw;
+  max-width:126px;
+}
+
 .img-box > .section-15 {
   height:auto;
   background-image:url(https://rawcdn.githack.com/jiseon5154/JISEON-PROJECT/master/docs/resource/a-15.png);
@@ -284,6 +368,18 @@
   content:"";
   display:block;
   padding-top:calc(100% / 1920 * 2458);
+}
+
+.img-box > .section-15 > .img-14 {
+  position:absolute;
+  top:15%;
+  left:63.5%;
+}
+
+.img-box > .section-15 > .img-14 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:296.625px;
 }
 
 .img-box > .section-16 {
